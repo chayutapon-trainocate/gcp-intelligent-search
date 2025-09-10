@@ -72,7 +72,6 @@
           "queryExpansionSpec":{"condition":"AUTO"},
           "spellCorrectionSpec":{"mode":"AUTO"},
           "languageCode":"en-US",
-          "contentSearchSpec":{"extractiveContentSpec":{"maxExtractiveAnswerCount":1}},
           "facetSpecs":[{"facetKey":{"key":"category"},"limit":30}],
           "userInfo":{"timeZone":"Asia/Bangkok"},
           "filter":"category: ANY(\"financials\")"
