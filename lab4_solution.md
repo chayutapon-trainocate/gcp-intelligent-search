@@ -43,3 +43,13 @@ components:
         store_number:
           type: integer
 ```
+
+- **Task 7: Create a Conversational Agent Playbook**
+
+```
+  - Greet the user, then ask about store number and feedback.
+  - Receive a store number and feedback.
+  - Use ${TOOL:Record Employee Feedback}  to record employee feedback.
+  - Thank the user for their feedback
+  - Letting them know it has been recorded
+```
