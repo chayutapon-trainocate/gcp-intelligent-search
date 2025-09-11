@@ -7,7 +7,7 @@ info:
   title: Employee Feedback API
   version: 1.0.0
 servers:
-  - url: 'https://record-feedback-382715366317.us-east1.run.app'
+  - url: 'YOUR_CLOUD_RUN_FUNCRION_URL'
 paths:
   /:
     post:
