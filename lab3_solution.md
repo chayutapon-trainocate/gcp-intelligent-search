@@ -7,7 +7,7 @@
    {"id": "doc-2","structData": {"title": "Paradise Reef Resort","category": "information","rating": 4.7},"content": {"mimeType": "application/pdf","uri": "gs://qwiklabs-gcp-04-5788f0cee4c4/hotel2.pdf"}}
    {"id": "doc-3","structData": {"title": "AquaPulse Maldives","category": "information","rating": 4.0},"content": {"mimeType": "application/pdf","uri": "gs://qwiklabs-gcp-04-5788f0cee4c4/hotel3.pdf"}}
    {"id": "doc-4","structData": {"title": "Heaven Resort Financials","category": "financials","rating": 4.8},"content": {"mimeType": "application/pdf","uri": "gs://qwiklabs-gcp-04-5788f0cee4c4/hotel1-financials.pdf"}}
-   {"id": "doc-5","structData": {"title": "Paradise Reef Resort Financials","category": "financials","rating": 4.7},"content": {"mimeType": "application/pdf","uri": "gs://qwiklabs-gcp-04-5788f0cee4c4/hotel2-financials.pdf"}}
+   {"id": "doc-5","structData": {"title": "Paradise Reef Resort Financials","category": "financials","rating": 4.7},"content": {"mimeType": "application/pdf","uri": "gs://$(gcloud config get-value project)/hotel2-financials.pdf"}}
    {"id": "doc-6","structData": {"title": "AquaPulse Maldives Financials","category": "financials","rating": 4.0},"content": {"mimeType": "application/pdf","uri": "gs://qwiklabs-gcp-04-5788f0cee4c4/hotel3-financials.pdf"}}
    EOF
    ```
