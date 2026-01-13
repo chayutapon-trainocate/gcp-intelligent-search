@@ -73,6 +73,6 @@
           "languageCode":"en-US",
           "facetSpecs":[{"facetKey":{"key":"category"},"limit":30}],
           "userInfo":{"timeZone":"Asia/Bangkok"},
-          "filter":"category: ANY(\"financials\")"
+          "filter":"category: ANY(\"information\")"
       }'
       ```
