@@ -60,13 +60,13 @@
      ```
      rating > 4.1
      ```
-   - **Category = financials AND page_size = 2**
+   - **Category = information AND page_size = 2**
       ```shell
       curl -X POST -H "Authorization: Bearer $(gcloud auth print-access-token)" \
       -H "Content-Type: application/json" \
       "https://discoveryengine.googleapis.com/v1alpha/projects/$(gcloud projects describe $(gcloud config get-value project) --format="value(projectNumber)")/locations/global/collections/default_collection/engines/$APP_ID/servingConfigs/default_search:search" \
       -d '{
-          "query":"What is the revenue for the hotels in the Maldives?",
+          "query":"What hotels are available in the Maldives?",
           "pageSize":2,
           "queryExpansionSpec":{"condition":"AUTO"},
           "spellCorrectionSpec":{"mode":"AUTO"},
