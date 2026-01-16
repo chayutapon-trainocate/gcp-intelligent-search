@@ -53,7 +53,7 @@ components:
   - Thank the user for their feedback
   - Letting them know it has been recorded
 ```
-- **: Additional Permission Setting between Gemini Enterprise <> Conversational Agent**
+- ** Additional Permission Setting between Gemini Enterprise <> Conversational Agent**
 
 ```
   - Navigate to IAM.
