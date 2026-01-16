@@ -6,7 +6,7 @@
 | 2. | Create and Maintain Vertex AI Search Data Stores | 14 Jan | Wednesday | 09:30 - 12:00 | 2.5 Hrs | Online | [Lab URL](https://partner.cloudskillsboost.google/course_templates/1260?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=51518821) |
 | 3. | Configure AI Applications to Optimize Search Results | 14 Jan | Wednesday | 13:00 - 15:00 | 2 Hrs | Online | [Lab URL](https://partner.cloudskillsboost.google/course_templates/1250?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=52496861) |
 | 4. | Extend Gemini Enterprise Assistant Capabilities | 16 Jan | Friday | 09:30 - 12:00 | 2.5 Hrs | Online | [Lab URL](https://partner.cloudskillsboost.google/course_templates/1247?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=52496941) |
-| 5. | Create Media Search and Media Recommendations Applications with AI Applications | 16 Jan | Friday | 13:00 - 15:00 | 2 Hrs | Online | [Lab URL](https://partner.cloudskillsboost.google/course_templates/1246?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=52496974) |
+| 5. | Create Media Search and Media Recommendations Applications with AI Applications | 16 Jan | Friday | 13:30 - 15:30 | 2 Hrs | Online | [Lab URL](https://partner.cloudskillsboost.google/course_templates/1246?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=52496974) |
 
 ---
 
