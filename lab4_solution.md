@@ -53,3 +53,13 @@ components:
   - Thank the user for their feedback
   - Letting them know it has been recorded
 ```
+- **: Additional Permission Setting**
+
+```
+  - Navigate to IAM.
+  - Check the checkbox to Include Google-provided role grants.
+  - Find the row for the Discovery Engine xxx (you may need to refresh the page) and click the pencil edit icon on its row.
+  - Click + Add another role.
+  - Add the role: Dialogflow Service Agent.
+  - Click Save.
+```
