@@ -12,7 +12,7 @@
           "query":"miracle",
           "pageSize":3,
           "queryExpansionSpec":{"condition":"AUTO"},
-          "searchAsYouTypeSpec":{"condition":"ENABLED"}
+          "searchAsYouTypeSpec":{"condition":"ENABLED"},
           "spellCorrectionSpec":{"mode":"AUTO"},
           "languageCode":"en-US",
           "userInfo":{"timeZone":"Asia/Bangkok"},
